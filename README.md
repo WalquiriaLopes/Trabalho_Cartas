@@ -12,6 +12,7 @@ O projeto identifica, mediante uma base de imagens, qual o tipo de carta, entre 
 Comando para executar:
 java -jar Trabalho_Cartas.jar
 O jar deve estar na mesma pasta aonde está a pasta das imagens.
+O projeto foi feito em Java 8
 
 # Autores:
 Túlio Fernandes Morilha
